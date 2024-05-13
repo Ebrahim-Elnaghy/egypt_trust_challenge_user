@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857347252882",
+    "project_id": "egypt-trust-challenge",
+    "storage_bucket": "egypt-trust-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857347252882:android:a839e8e0fef978e8207c4b",
+        "android_client_info": {
+          "package_name": "com.example.egypt_trust_challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1mSRrv0CjNdcwmXv1Q_YkzqqtSSJccCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
